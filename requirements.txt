@@ -1,4 +1,5 @@
 opencv-python>=4.5
-mediapipe>=0.10.13
+mediapipe>=0.10.14
 numpy
 ultralytics
+torch
